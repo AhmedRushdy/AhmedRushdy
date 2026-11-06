@@ -6,13 +6,13 @@
 
 ### 🛠 Tech Stack & Ecosystem
 
-- **Cloud & Platforms:** Microsoft Azure, Google Cloud Platform (GCP)
-- **Container Orchestration & Ingress:** Kubernetes (AKS, GKE, Kind), Traefik-ext, Helm, Docker
+- **Cloud & Platforms:** Microsoft Azure, Google Cloud Platform (GCP), AWS
+- **Container Orchestration & Ingress:** Kubernetes (AKS, GKE, Kind), Helm, Docker , Kustomize
 - **Infrastructure as Code (IaC):** Terraform, Bicep
 - **CI/CD & GitOps:** Azure DevOps, GitHub Actions, ArgoCD
-- **Observability & Secrets:** Prometheus, Grafana, Azure Key Vault
-- **Storage & Data:** MinIO, HDFS, PostgreSQL, Apache Kafka
-- **Languages:** Go, Python, Bash, gRPC
+- **Observability & Secrets:** Prometheus, Grafana, Azure Monitoring
+- **Storage & Data:** MinIO, HDFS, PostgreSQL
+- **Languages:** Go, Python, Bash, PowerShell
 
 ---
 
